@@ -1,0 +1,7 @@
+C:\Users\PC Morten\source\repos\ThreadPoolOpg1\ThreadPoolOpg1\obj\Debug\ThreadPoolOpg1.csprojAssemblyReference.cache
+C:\Users\PC Morten\source\repos\ThreadPoolOpg1\ThreadPoolOpg1\obj\Debug\ThreadPoolOpg1.csproj.CoreCompileInputs.cache
+C:\Users\PC Morten\source\repos\ThreadPoolOpg1\ThreadPoolOpg1\bin\Debug\ThreadPoolOpg1.exe.config
+C:\Users\PC Morten\source\repos\ThreadPoolOpg1\ThreadPoolOpg1\bin\Debug\ThreadPoolOpg1.exe
+C:\Users\PC Morten\source\repos\ThreadPoolOpg1\ThreadPoolOpg1\bin\Debug\ThreadPoolOpg1.pdb
+C:\Users\PC Morten\source\repos\ThreadPoolOpg1\ThreadPoolOpg1\obj\Debug\ThreadPoolOpg1.exe
+C:\Users\PC Morten\source\repos\ThreadPoolOpg1\ThreadPoolOpg1\obj\Debug\ThreadPoolOpg1.pdb
